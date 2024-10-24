@@ -1,6 +1,5 @@
 # php-skeleton
 
-------
 🎉 This **Skeleton PHP** package created for your new package idea
 
 <p align="center">
@@ -10,6 +9,8 @@
         <a href="https://packagist.org/packages/igzard/php-skeleton"><img alt="Latest Version" src="https://img.shields.io/packagist/v/igzard/php-skeleton"></a>
     </p>
 </p>
+
+------
 
 > **Requires [PHP 8.3+](https://php.net/releases/)**
 
