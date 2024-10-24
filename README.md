@@ -5,7 +5,7 @@
 
 <p align="center">
     <p align="center">
-        <a href="https://github.com/igzard/ncore/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/igzard/php-skeleton/tests.yml?label=tests&style=flat-square" alt="Tests passed"></a>
+        <a href="https://github.com/igzard/php-skeleton/actions/workflows/tests.yml"><img src="https://img.shields.io/github/actions/workflow/status/igzard/php-skeleton/tests.yml?label=tests&style=flat-square" alt="Tests passed"></a>
         <a href="https://packagist.org/packages/igzard/php-skeleton"><img alt="Total Downloads" src="https://img.shields.io/packagist/dt/igzard/php-skeleton"></a>
         <a href="https://packagist.org/packages/igzard/php-skeleton"><img alt="Latest Version" src="https://img.shields.io/packagist/v/igzard/php-skeleton"></a>
     </p>
