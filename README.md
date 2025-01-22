@@ -20,9 +20,9 @@
 composer create-project igzard/php-skeleton --prefer-source PackageName
 ```
 
-✅ Run **Code quality** check:
+✅ Run **Test** check:
 ```bash
-make code-quality
+make test
 ```
 
 👷 Run **PHPUnit** tests:
@@ -30,9 +30,9 @@ make code-quality
 make phpunit
 ```
 
-🎨 Run **php-cs-fixer**:
+🎨 Run **cs-fix**:
 ```bash
-make php-cs-fixer
+make cs-fix
 ```
 
 🔥 Run **phpstan**:
